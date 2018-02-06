@@ -7,5 +7,5 @@ function happyHolidaysTo(name) {
     return `Happy holidays, ${name}!`
   }
 function happyHolidayTo(string) {
-    return `Happy Valetine's Day, Troy`
+    var happyHolidayTo_str `Happy Valetine's Day, Troy`
 }
